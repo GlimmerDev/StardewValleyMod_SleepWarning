@@ -160,7 +160,7 @@ namespace SleepWarning
         private string FormatTimeValue(int time)
         {
             if (time == -1)
-                return "Off";
+                return "Disable";
             string min_str = (time % 2 == 0) ? "00" : "30";
             int hours = (time / 2) + 6;
             string am_pm = (hours > 11 && hours < 24) ? " PM" : " AM";
