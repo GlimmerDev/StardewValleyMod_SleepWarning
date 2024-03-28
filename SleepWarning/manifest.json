@@ -6,5 +6,5 @@
   "UniqueID": "glimmerDev.SleepWarning",
   "EntryDll": "SleepWarning.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": [ "Github:GlimmerDev/StardewValleyMod_SleepWarning" ]
+  "UpdateKeys": [ "Nexus:21128", "Github:GlimmerDev/StardewValleyMod_SleepWarning" ]
 }
