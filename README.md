@@ -13,6 +13,11 @@ This mod requires Stardew Valley 1.6, and SMAPI >= 4.0.0.
 
 
 ## Configuration
+
+### Generic Mod Config Menu
+This mod supports [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098), which provides a user friendly interface for changing configuraiton options. Simply install GMCM, and Sleep Warning will appear in the list. GMCM is **not required** to use this mod.
+
+### Config File
 The config will generate automatically once you load the game with the mod installed. To reset the config, simply delete the "config.json" in the mod folder.
 
 ``FirstWarnTime``  
