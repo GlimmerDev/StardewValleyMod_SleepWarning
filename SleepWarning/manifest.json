@@ -1,7 +1,7 @@
 {
   "Name": "SleepWarning",
   "Author": "GlimmerDev",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "Warns you when you need to head home!",
   "UniqueID": "glimmerDev.SleepWarning",
   "EntryDll": "SleepWarning.dll",
